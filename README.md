@@ -11,4 +11,6 @@ coordinated using a Discord server set up for purposes of communication as well 
 
 
 
+Tools and languages which I use more or less commonly: 
+
 ![380-3801129_glider-offers-a-clean-and-elegant-way-to](https://user-images.githubusercontent.com/74370134/137207331-1d5b5276-0c31-4d3f-b2b6-acb0d89e6848.png)
