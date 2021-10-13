@@ -1,4 +1,4 @@
-Devtill2yeah- about me
+About me as developer:
 
 Hello fellows, mostly I am enganged in cyber security and anonymity measures,
 for that purpose to archieve I mostly am scripting using Batch files. 
