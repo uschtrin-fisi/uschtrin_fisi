@@ -1,6 +1,6 @@
 About me as developer:
 
-Hello fellows, mostly I am enganged in cyber security and anonymity measures,
+Hi fellows, mostly I am enganged in cyber security and anonymity measures,
 for that purpose to archieve I mostly am scripting using Batch files. 
 As for that, database systems almost are mandatory, I currfently am gettng familiar with managing databse tools. 
 
