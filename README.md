@@ -1,13 +1,12 @@
 About me as developer:
 
-Hi fellows, mostly I am enganged in cyber security and anonymity measures,
+Mostly, I am enganged in cyber security and anonymity measures,
 for that purpose to archieve I mostly am scripting using Batch files. 
 As for that, database systems almost are mandatory, I currfently am gettng familiar with managing databse tools. 
 
 
 
-
-In addition I currently am working on a Minecraft multiplayer Roleplay server, 
+In addition I am currently working on a Minecraft multiplayer Roleplay server, 
 in which´s the building of the castle is coordinated. 
 Specifically, the RP and the game itself runs in a JAVA environment and will be
 coordinated using a Discord server set up for purposes of communication as well as interaction. 
