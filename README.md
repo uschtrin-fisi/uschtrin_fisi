@@ -7,7 +7,7 @@ As for that, database systems almost are mandatory, I currfently am gettng famil
 
 
 In addition I am currently working on a Minecraft multiplayer Roleplay server, 
-in which´s the building of the castle is coordinated. 
+in which´s the building of the castle out of the HP environment (Hogwarts) will be coordinated. 
 Specifically, the RP and the game itself runs in a JAVA environment and will be
 coordinated using a Discord server set up for purposes of communication as well as interaction. 
 
