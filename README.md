@@ -5,11 +5,12 @@ for that purpose to archieve I mostly am scripting using Batch files.
 As for that, database systems almost are mandatory I currently am getting familiar with managing databases sucessfully. 
 
 
+My most recent focus specifically will be on the analysis of threats as well as the implication of application leaks. 
 
 In addition, I currently am working on a Minecraft multiplayer Roleplay server, 
-in which the building of a castle out of the HP environment (Hogwarts) will be happening. 
-Specifically, the RP-server and the game itself are running in a Java-Environment. 
-To let the Roleplay happen successfully, we´ll be using a Discord server which is set up for the purpose of sucessful interaction. 
+in which the building of a castle out of the HP environment will be happening. 
+Specifically, the Roleplay-server and the game itself are running in an almost Java-only-Environment. 
+To let the Roleplay happen successfully, we´ll be using a Discord server which is set up for a sucessful interaction. 
 
 
 
