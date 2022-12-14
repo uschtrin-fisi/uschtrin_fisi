@@ -1,7 +1,7 @@
 # Good to see you here!
 
 
-👀 threat analysis using reverse engeneering
+👀 post threat analysis using reverse engeneering
 
 🧠 learning as much as possible about stable methods of file and cloud encryption
 
