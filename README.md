@@ -31,6 +31,8 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 -> Batch
 
--> PHP
+-> VA Framework
+
+-> VirtualBox
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dracula)](https://github.com/devtill2yeah/github-readme-stats)
