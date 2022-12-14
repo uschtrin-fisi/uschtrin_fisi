@@ -4,7 +4,7 @@ Currently, I am contributing to the workflow of CCC, maintaining an alliance wit
 
 Projects I work on:
 
-- threat analysis using reverse engeneering as well as ethicasl hackking partially. 
+- threat analysis using reverse engeneering as well as ethical hacking partially. 
 - Operating and overseeing a Minecraft-gameserver
 
 The second project mentioned will be a multiplayer roleplay server.
