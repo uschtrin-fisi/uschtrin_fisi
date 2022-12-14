@@ -3,12 +3,13 @@
 
 👀 threat analysis using reverse engeneering
 
+🧠 learning as much as possible about stable methods of file and cloud encryption
+
 💭 ethical hacking
 
-💙 Operating and overseeing a 
-Minecraft gameserver
+💙 Operating and overseeing a Minecraft gameserver
 
-🧠 learning as much as possible about stable methods of file and cloud encryption
+
 
 ## Progress evaluation
 
