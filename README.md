@@ -9,9 +9,6 @@
 
 💙 Operating and overseeing a Minecraft gameserver
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dracula)](https://github.com/devtill2yeah/github-readme-stats)
-
 ## Progress evaluation
 
 Momentarily, I am contributing to the workflow of CCC, maintaining an alliance with Digitalcourage.
@@ -36,4 +33,4 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 -> PHP
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dracula)](https://github.com/devtill2yeah/github-readme-stats)
