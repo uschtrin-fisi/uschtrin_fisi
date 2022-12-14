@@ -20,7 +20,8 @@ Tools and languages which I use more or less commonly are:
 
 -> HTML
 -> MySQL
--> Javascript as well as normal Java 
+-> Javascript
 -> Python
--> Typescript 
+-> Java 
+-> PHP
 -> Batch 
