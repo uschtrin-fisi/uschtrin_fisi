@@ -16,7 +16,7 @@ This roleplay-gameserver and the environment itself are widely based on Java and
 To let roleplay happen successfully, we will be using a Discord server set up for the interaction during sessions of roleplaying. 
 
 
-###### Tools and languages I use more or less frequent; 
+## Tools and languages I use more or less frequent; 
 
 -> Javascript
 
