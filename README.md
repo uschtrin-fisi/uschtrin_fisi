@@ -16,7 +16,8 @@
 Momentarily, I am contributing to the workflow of CCC, maintaining an alliance with Digitalcourage.
 
 A long-term project I lay my eyes on will be a multiplayer roleplay server.
-This roleplay-gameserver and the environment itself are widely based on Java and MySQL. 
+This roleplay-gameserver and the environment itself are widely based on Java and MySQL.
+For the communication during roleplay (server) activity, a Discord server will be used.
 
 ## Tools and languages I use more or less frequent
 
