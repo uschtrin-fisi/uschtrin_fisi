@@ -43,4 +43,6 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 - [Jetbrains IntelliJ IDE](https://www.jetbrains.com/idea/features/)
 
+- [Scalacube hosting](https://scalacube.com/hosting/server/minecraft)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dark)](https://github.com/devtill2yeah/github-readme-stats)
