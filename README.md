@@ -25,7 +25,7 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 -> MySQL
 
--> Python
+-> [Python](https://www.python.org/)
 
 -> HTML
 
