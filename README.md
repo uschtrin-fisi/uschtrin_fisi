@@ -17,26 +17,26 @@ A long-term project I lay my eyes on will be a multiplayer roleplay gameserver.
 The infrastructure and functions within Minecraft itself will widely be based on Java and MySQL.
 For the communication during roleplay (server) activity, a Discord server will be used.
 
-## Tools and languages I use more or less frequent
+## Languages and tools I use more or less frequent
 
--> [Javascript](https://www.javascript.com/)
+- [Javascript](https://www.javascript.com/)
 
--> [Java](https://www.java.com/en/)
+- [Java](https://www.java.com/en/)
 
--> [MySQL](https://www.mysql.com/)
+- [MySQL](https://www.mysql.com/)
 
--> [Python](https://www.python.org/)
+- [Python](https://www.python.org/)
 
--> [HTML](https://html.com/)
+- [HTML](https://html.com/)
 
--> [CSS](https://www.w3schools.com/css/default.asp)
+- [CSS](https://www.w3schools.com/css/default.asp)
 
--> [Batch](https://www.tutorialspoint.com/batch_script/index.htm)
+- [Batch](https://www.tutorialspoint.com/batch_script/index.htm)
 
--> [VA Framework](http://vaframework.com/)
+- [VA Framework](http://vaframework.com/)
 
--> [VirtualBox](https://www.virtualbox.org/)
+- [VirtualBox](https://www.virtualbox.org/)
 
--> [Kali Linux](https://www.kali.org/docs/)
+- [Kali Linux](https://www.kali.org/docs/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dark)](https://github.com/devtill2yeah/github-readme-stats)
