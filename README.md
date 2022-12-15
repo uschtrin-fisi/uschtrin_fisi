@@ -11,7 +11,7 @@
 
 ## Progress evaluation
 
-Momentarily, I am contributing to the workflow of the CCC, maintaining an alliance with Digitalcourage.
+Momentarily, I am contributing to the workflow Digitalccourage while maintaining close alliance with the CCC.
 
 A long-term project I lay my eyes on will be a multiplayer roleplay gameserver.
 The infrastructure and functions within Minecraft itself will widely be based on Java and MySQL.
