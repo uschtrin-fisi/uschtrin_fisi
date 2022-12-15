@@ -41,4 +41,6 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 - [OpenVPN GUI](https://openvpn.net/access-server/)
 
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/community/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dark)](https://github.com/devtill2yeah/github-readme-stats)
