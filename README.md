@@ -19,20 +19,20 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 ## Tools and languages I use more or less frequent
 
--> Javascript
+-> [Javascript](https://www.javascript.com/)
 
--> Java
+-> [Java](https://www.java.com/en/)
 
--> MySQL
+-> [MySQL](https://www.mysql.com/)
 
 -> [Python](https://www.python.org/)
 
--> HTML
+-> [HTML](https://html.com/)
+
+-> [VA Framework](http://vaframework.com/)
+
+-> [VirtualBox](https://www.virtualbox.org/)
 
 -> Batch
 
--> VA Framework
-
--> VirtualBox
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dracula)](https://github.com/devtill2yeah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=midnight)](https://github.com/devtill2yeah/github-readme-stats)
