@@ -27,7 +27,9 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 -> [Python](https://www.python.org/)
 
--> [HTML](https://html.com/)
+-> [[HTML](https://s1.qwant.com/thumbr/0x380/1/d/bc1b5da2239dffba46d8a58bab40090fddb62dfef6f0bdd59746bb9e7a21dc/logo-html-5-1536.png?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fhtml-5%2Flogo-html-5-1536.png&q=0&b=1&p=0&a=0)](https://html.com/)
+
+-> [CSS](https://www.w3schools.com/css/default.asp)
 
 -> [VA Framework](http://vaframework.com/)
 
