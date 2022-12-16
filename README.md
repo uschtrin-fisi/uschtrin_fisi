@@ -23,6 +23,8 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 - [Java](https://www.java.com/en/)
 
+- [Cplusplus](https://www.w3schools.com/cpp/cpp_intro.asp)
+
 - [MySQL](https://www.mysql.com/)
 
 - [Python](https://www.python.org/)
