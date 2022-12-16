@@ -33,6 +33,8 @@ For the communication during roleplay (server) activity, a Discord server will b
 
 - [Batch](https://www.tutorialspoint.com/batch_script/index.htm)
 
+- [PHP](https://www.php.net/)
+
 - [VA Framework](http://vaframework.com/)
 
 - [VirtualBox](https://www.virtualbox.org/)
