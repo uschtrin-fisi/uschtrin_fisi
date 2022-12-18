@@ -13,7 +13,7 @@
 
 Momentarily, I am contributing to the workflow of Digitalcourage while maintaining close alliance with the CCC.
 
-A long-term project I lay my eyes on will be a multiplayer roleplay gameserver.
+A long-term project I lay my eyes on will be the administration and maintenance of a multiplayer roleplay gameserver.
 The infrastructure and functions within Minecraft itself will widely be based on Java and MySQL.
 For the communication during roleplay (and server) activity, a Discord server will be used.
 
