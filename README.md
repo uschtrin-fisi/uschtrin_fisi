@@ -17,6 +17,8 @@ A long-term project I lay my eyes on will be the administration and maintenance 
 The infrastructure and functions within Minecraft itself will widely be based on Java and MySQL.
 For the communication during roleplay (and server) activity, a Discord server will be used.
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+
 ## Languages and tools I use more or less frequent
 
 - [Javascript](https://www.javascript.com/)
