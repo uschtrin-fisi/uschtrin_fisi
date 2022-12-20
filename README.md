@@ -2,11 +2,12 @@
 
 👀 post threat analysis using reverse engineering
 
-🧠 learning as much as possible about stable methods of file and cloud encryption
+![image](https://user-images.githubusercontent.com/74370134/208738844-53b696a3-9972-457b-b9cb-00c542663794.png)
+ learning as much as possible about stable methods of file and cloud encryption
 
 💭 ethical hacking
 
-💙 Operating and overseeing a Minecraft gameserver
+🧠 Operating and overseeing a Minecraft gameserver
 
 
 ## Progress evaluation
