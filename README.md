@@ -2,7 +2,7 @@
 
 👀 post threat analysis using reverse engineering
 
-  ![25502561 emoji size](https://user-images.githubusercontent.com/74370134/208739567-cadb3a56-89a8-47df-993d-d6f1488ed023.png)  learning as much as possible about stable methods of file and cloud encryption
+  ![25502561 emoji size](https://user-images.githubusercontent.com/74370134/208739567-cadb3a56-89a8-47df-993d-d6f1488ed023.png)    learning as much as possible about stable methods of file and cloud encryption
 
 💭 ethical hacking
 
