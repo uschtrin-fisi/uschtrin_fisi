@@ -17,7 +17,7 @@ A long-term project I lay my eyes on will be the administration and maintenance 
 The infrastructure and functions within Minecraft itself will widely be based on Java and MySQL. 
 For the communication during roleplay (and server) activity, a Discord server will be used.
 
-#### reachability and stats
+#### reachability and common statistics
 
 <a href="https://discordapp.com/users/748980705907966012"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/47015533.png" alt="devtill2yeah | Discord" width="33px"/></a>
 
