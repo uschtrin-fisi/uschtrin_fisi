@@ -23,7 +23,7 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://instagram.com/devtill2yeah"><img align="centre" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="devtill2yeah | Instagram" width="21px"/></a>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=devtill2yeah)](https://github.com/devtill2yeah)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&layout=compact)](https://github.com/devtill2yeah)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=devtill2yeah)](https://github.com/devtill2yeah)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&layout=compact)](https://github.com/devtill2yeah)
 
 
 
