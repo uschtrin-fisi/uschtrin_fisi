@@ -49,4 +49,4 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 - [Scalacube hosting](https://scalacube.com/hosting/server/minecraft)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&theme=dark)](https://github.com/devtill2yeah/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
