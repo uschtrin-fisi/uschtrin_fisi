@@ -9,6 +9,10 @@
 
 💙 Operating and overseeing a Minecraft gameserver
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.pexels.com/photo/abstract-background-with-multicolored-paints-7004697/)" width="100"/>
+</div>
+
 ## Progress evaluation
 
 Momentarily, I am contributing to the workflow of Digitalcourage while maintaining close alliance with the CCC.
