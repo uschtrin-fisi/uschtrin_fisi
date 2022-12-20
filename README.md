@@ -53,4 +53,4 @@ For the communication during roleplay (and server) activity, a Discord server wi
 	https://github-readme-stats.vercel.app/api?username={devtill2yeah}&theme=blue-green
   
 
-<img alt="linktr.ee" src="https://img.shields.io/linktr.ee?down_color=neonred&down_message=inactive&up_color=neongreen&up_message=active&url=https%3A%2F%2Flinktr.ee%2Fdevtill2yeah">
+<img alt="website" src="https://img.shields.io/website?down_color=neonred&down_message=inactive&up_color=neongreen&up_message=active&url=https%3A%2F%2Flinktr.ee%2Fdevtill2yeah">
