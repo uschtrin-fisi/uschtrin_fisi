@@ -20,7 +20,7 @@ For the communication during roleplay (and server) activity, a Discord server wi
 ####reachability and facts
 
 <a href="https://instagram.com/devtill2yeah"><img align="left" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/instagram.svg" 
-width="33px"/></a>
+width="40px"/></a>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=devtill2yeah)](https://github.com/devtill2yeah)
 
