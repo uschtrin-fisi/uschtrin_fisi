@@ -18,7 +18,8 @@ The infrastructure and functions within Minecraft itself will widely be based on
 For the communication during roleplay (and server) activity, a Discord server will be used.
 
 ####reachability and facts
-<a href="https://instagram.com/devtill2yeah"><img align="left" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/instagram.png" alt="devtill2yeah instagram" width="33px"/></a>
+
+<a href="https://instagram.com/devtill2yeah"><img align="left" src="https://raw.githubusercontent.com/devtill2yeah/visual configs/main/images/instagram.png" alt="devtill2yeah instagram" width="33px"/></a>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=devtill2yeah)](https://github.com/devtill2yeah)
 
