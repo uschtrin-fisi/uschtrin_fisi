@@ -60,5 +60,5 @@ width="33px"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&layout=compact)](https://github.com/devtill2yeah)
   
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=devtill2yeah.devtill2yeah)]([https://www.yushi.dev/](https://github.com/devtill2yeah/devtill2yeah))
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=devtill2yeah.devtill2yeah)]([https://www.yushi.dev/](https://github.com/devtill2yeah/devtill2yeah))
  
