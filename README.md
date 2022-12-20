@@ -50,5 +50,4 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 - [Scalacube hosting](https://scalacube.com/hosting/server/minecraft)
 
-
-![2](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
+	https://github-readme-stats.vercel.app/api/top-langs/?username={devtill2yeah}&theme=blue-green
