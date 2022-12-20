@@ -51,9 +51,10 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 - [Scalacube hosting](https://scalacube.com/hosting/server/minecraft)
 
+<a href="https://instagram.com/devtill2yeah"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&layout=compact)](https://github.com/devtill2yeah)
   
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=devtill2yeah.devtill2yeah)]([https://www.yushi.dev/](https://github.com/devtill2yeah/devtill2yeah))
   
 <img alt="website" src="https://img.shields.io/website?down_color=neonred&down_message=inactive&up_color=neongreen&up_message=active&url=https%3A%2F%2Flinktr.ee%2Fdevtill2yeah">
-
