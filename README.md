@@ -9,10 +9,6 @@
 
 💙 Operating and overseeing a Minecraft gameserver
 
-<div id="header" align="center">
-  <img src="[(https://images.pexels.com/photos/3125638/pexels-photo-3125638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) width="600" height="300"]"/>
-</div>
-
 ## Progress evaluation
 
 Momentarily, I am contributing to the workflow of Digitalcourage while maintaining close alliance with the CCC.
@@ -52,5 +48,3 @@ For the communication during roleplay (and server) activity, a Discord server wi
 - [Jetbrains IntelliJ IDE](https://www.jetbrains.com/idea/features/)
 
 - [Scalacube hosting](https://scalacube.com/hosting/server/minecraft)
-
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
