@@ -1,7 +1,5 @@
 # Good seeing you here!
 
-	![2](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white) 
-
 👀 post threat analysis using reverse engineering
 
 🧠 learning as much as possible about stable methods of file and cloud encryption
@@ -51,3 +49,6 @@ For the communication during roleplay (and server) activity, a Discord server wi
 - [Jetbrains IntelliJ IDE](https://www.jetbrains.com/idea/features/)
 
 - [Scalacube hosting](https://scalacube.com/hosting/server/minecraft)
+
+
+![2](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
