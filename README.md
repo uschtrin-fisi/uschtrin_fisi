@@ -10,7 +10,7 @@
 💙 Operating and overseeing a Minecraft gameserver
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.pexels.com/photo/abstract-background-with-multicolored-paints-7004697/)" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.pexels.com/photo/abstract-background-with-multicolored-paints-7004697/)" width="2000"/>
 </div>
 
 ## Progress evaluation
