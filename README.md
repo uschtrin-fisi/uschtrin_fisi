@@ -8,7 +8,6 @@
 
 💙 Operating and overseeing a Minecraft gameserver
 
-![1](https://images.pexels.com/photos/3125638/pexels-photo-3125638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## Progress evaluation
 
