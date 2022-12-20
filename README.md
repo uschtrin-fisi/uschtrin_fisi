@@ -21,6 +21,8 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://discordapp.com/users/748980705907966012"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/47015533.png" alt="devtill2yeah | Discord" width="33px"/></a>
 
+<a href="https://instagram.com/devtill2yeah"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/instagram.png" alt="devtill2yeah | Instagram" width="33px"/></a>
+
 <a href="https://instagram.com/devtill2yeah"><img align="centre" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="devtill2yeah | Instagram" width="33px"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&layout=compact)](https://github.com/devtill2yeah) 
