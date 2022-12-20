@@ -9,6 +9,8 @@
 
 💙 Operating and overseeing a Minecraft gameserver
 
+!(https://images.pexels.com/photos/3125638/pexels-photo-3125638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 ## Progress evaluation
 
 Momentarily, I am contributing to the workflow of Digitalcourage while maintaining close alliance with the CCC.
