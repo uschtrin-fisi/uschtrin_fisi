@@ -39,13 +39,13 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.mysql.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/mysql.png" alt="devtill2yeah | mysql" width="33px"/></a>
 
+<a href="https://www.tutorialspoint.com/batch_script/batch_script_overview.htm"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/batch .png" alt="devtill2yeah | batch" width="33px"/></a>
+
 - [Python](https://www.python.org/)
 
 - [HTML](https://html.com/)
 
 - [CSS](https://www.w3schools.com/css/default.asp)
-
-- [Batch](https://www.tutorialspoint.com/batch_script/index.htm)
 
 - [PHP](https://www.php.net/)
 
