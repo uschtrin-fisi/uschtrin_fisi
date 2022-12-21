@@ -35,9 +35,9 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.java.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/java .png" alt="devtill2yeah | java" width="33px"/></a>
 
-<a href="https://www.w3schools.com/cpp/cpp_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/c++ .jpg" alt="devtill2yeah | java" width="33px"/></a>
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/c++ .jpg" alt="devtill2yeah | cplusplus" width="33px"/></a>
 
-- [MySQL](https://www.mysql.com/)
+<a href="https://www.mysql.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/mysql.png" alt="devtill2yeah | mysql" width="33px"/></a>
 
 - [Python](https://www.python.org/)
 
