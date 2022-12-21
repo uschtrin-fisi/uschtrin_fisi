@@ -35,17 +35,17 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.java.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/java .png" alt="devtill2yeah | java" width="33px"/></a>
 
+<a href="https://html.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/html .png" alt="devtill2yeah | html" width="33px"/></a>
+
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/c++ .jpg" alt="devtill2yeah | cplusplus" width="33px"/></a>
+
+<a href="https://www.w3schools.com/Css/css_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/css.png" alt="devtill2yeah | css" width="33px"/></a>
 
 <a href="https://www.mysql.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/mysql.png" alt="devtill2yeah | mysql" width="33px"/></a>
 
 <a href="https://www.tutorialspoint.com/batch_script/batch_script_overview.htm"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/batch .png" alt="devtill2yeah | batch" width="33px"/></a>
 
 <a href="https://www.python.org"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/python.png" alt="devtill2yeah | python" width="33px"/></a>
-
-<a href="https://html.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/html .png" alt="devtill2yeah | html" width="33px"/></a>
-
-<a href="https://www.w3schools.com/Css/css_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/css.png" alt="devtill2yeah | css" width="33px"/></a>
 
 <a href="https://www.php.net/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/php.png" alt="devtill2yeah | php" width="33px"/></a>
 
