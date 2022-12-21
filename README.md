@@ -35,7 +35,7 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.java.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/java .png" alt="devtill2yeah | java" width="33px"/></a>
 
-- [Cplusplus](https://www.w3schools.com/cpp/cpp_intro.asp)
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/c++ .jpg" alt="devtill2yeah | java" width="33px"/></a>
 
 - [MySQL](https://www.mysql.com/)
 
