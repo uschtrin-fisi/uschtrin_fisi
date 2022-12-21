@@ -31,7 +31,7 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 ## Languages and tools I use more or less frequent
 
-<a href="https://www.javascipt.com"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/js .png" alt="devtill2yeah | js" width="33px"/></a>
+<a href="[https://www.javascipt.com](https://www.javascript.com/)"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/js .png" alt="devtill2yeah | js" width="33px"/></a>
 
 - [Java](https://www.java.com/en/)
 
