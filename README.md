@@ -55,9 +55,9 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.kali.org/docs/"><img align="centre" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux-thumbnail.png" alt="devtill2yeah | php" width="33px"/></a>
 
-<a href="https://openvpn.net/"><img align="centre" src="https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1356900/1356903/original.jpg" alt="devtill2yeah | php" width="33px"/></a>
-
 <a href="https://www.jetbrains.com/idea/features/"><img align="centre" src="https://www.jetbrains.com/company/brand/img/logo6.svg" alt="devtill2yeah | php" width="33px"/></a>
+
+<a href="https://openvpn.net/"><img align="centre" src="https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1356900/1356903/original.jpg" alt="devtill2yeah | php" width="33px"/></a>
 
 <a href="https://scalacube.com/hosting/server/minecraft"><img align="centre" src="https://findstack.com/wp-content/uploads/2022/12/scalacube-logo-150x150.png" alt="devtill2yeah | php" width="33px"/></a>
 
