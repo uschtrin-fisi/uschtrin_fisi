@@ -6,7 +6,7 @@
 
 💭 ethical hacking
 
-🧠 Operating and overseeing a Minecraft gameserver
+🧠 Operating a Minecraft gameserver while ensuring stable functionality
 
 
 ## Progress evaluation
