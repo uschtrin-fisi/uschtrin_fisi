@@ -51,7 +51,7 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 - [VA Framework](http://vaframework.com/)
 
-- [VirtualBox](https://www.virtualbox.org/)
+- [VM-Ware](https://www.vmware.com/products/workstation-pro.html)
 
 - [Kali Linux](https://www.kali.org/docs/)
 
