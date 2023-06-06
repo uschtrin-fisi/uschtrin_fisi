@@ -43,9 +43,9 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.mysql.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/mysql.png" alt="devtill2yeah | mysql" width="33px"/></a>
 
-<a href="https://www.php.net/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/php.png" alt="devtill2yeah | php" width="33px"/></a>
-
 <a href="https://www.python.org"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/python.png" alt="devtill2yeah | python" width="33px"/></a>
+
+<a href="https://www.php.net/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/php.png" alt="devtill2yeah | php" width="33px"/></a>
 
 <a href="https://www.tutorialspoint.com/batch_script/batch_script_overview.htm"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/batch .png" alt="devtill2yeah | batch" width="33px"/></a>
 
