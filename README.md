@@ -39,7 +39,7 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/c++ .jpg" alt="devtill2yeah | cplusplus" width="33px"/></a>
 
-<a href="https://www.w3schools.com/Css/css_intro.asp"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/css.png" alt="devtill2yeah | css" width="33px"/></a>
+<a href="https://sass-lang.com/guide"><img align="centre" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/sass-5.png" alt="devtill2yeah | css" width="33px"/></a>
 
 <a href="https://www.mysql.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/mysql.png" alt="devtill2yeah | mysql" width="33px"/></a>
 
