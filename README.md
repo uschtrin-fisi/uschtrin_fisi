@@ -62,6 +62,4 @@ For the communication during roleplay (and server) activity, a Discord server wi
 - [Scalacube hosting](https://scalacube.com/hosting/server/minecraft)
 
 <img alt="website" src="https://img.shields.io/website?down_color=neonred&down_message=inactive&up_color=neongreen&up_message=active&url=https%3A%2F%2Flinktr.ee%2Fdevtill2yeah">
-  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=devtill2yeah.devtill2yeah)]([https://www.yushi.dev/](https://github.com/devtill2yeah/devtill2yeah))
  
