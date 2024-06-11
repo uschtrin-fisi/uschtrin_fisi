@@ -45,17 +45,17 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://www.tutorialspoint.com/batch_script/batch_script_overview.htm"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/batch .png" alt="devtill2yeah | batch" width="33px"/></a>
 
-<a href="https://vaframework.com/"><img align="centre" src="https://vaframework.com/img/shps/abs-shp-1.svg" alt="devtill2yeah | php" width="33px"/></a>
+<a href="https://vaframework.com/"><img align="centre" src="https://vaframework.com/img/shps/abs-shp-1.svg" alt="devtill2yeah | vaframework" width="33px"/></a>
 
-<a href="https://www.vmware.com/products/workstation-pro.html"><img align="centre" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png" alt="devtill2yeah | php" width="33px"/></a>
+<a href="https://www.vmware.com/products/workstation-pro.html"><img align="centre" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png" alt="devtill2yeah | vmware_workstation" width="33px"/></a>
 
-<a href="https://www.kali.org/docs/"><img align="centre" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux-thumbnail.png" alt="devtill2yeah | php" width="33px"/></a>
+<a href="https://www.kali.org/docs/"><img align="centre" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux-thumbnail.png" alt="devtill2yeah | kalilinux" width="33px"/></a>
 
-<a href="https://www.jetbrains.com/idea/features/"><img align="centre" src="https://www.jetbrains.com/company/brand/img/logo6.svg" alt="devtill2yeah | php" width="33px"/></a>
+<a href="https://www.jetbrains.com/idea/features/"><img align="centre" src="https://www.jetbrains.com/company/brand/img/logo6.svg" alt="devtill2yeah | jetbrains_IDE" width="33px"/></a>
 
-<a href="https://openvpn.net/"><img align="centre" src="https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1356900/1356903/original.jpg" alt="devtill2yeah | php" width="33px"/></a>
+<a href="https://openvpn.net/"><img align="centre" src="https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1356900/1356903/original.jpg" alt="devtill2yeah | OpenVPN" width="33px"/></a>
 
-<a href="https://scalacube.com/hosting/server/minecraft"><img align="centre" src="https://findstack.com/wp-content/uploads/2022/12/scalacube-logo-150x150.png" alt="devtill2yeah | php" width="33px"/></a>
+<a href="https://scalacube.com/hosting/server/minecraft"><img align="centre" src="https://findstack.com/wp-content/uploads/2022/12/scalacube-logo-150x150.png" alt="devtill2yeah | Scalacube" width="33px"/></a>
 
 <img alt="website" src="https://img.shields.io/website?down_color=neonred&down_message=inactive&up_color=neongreen&up_message=active&url=https%3A%2F%2Flinktr.ee%2Fdevtill2yeah">
  
