@@ -19,7 +19,7 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://discordapp.com/users/748980705907966012"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/47015533.png" alt="devtill2yeah | Discord" width="33px"/></a>
 
-<a href="https://twitter.com/devtill2yeah"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/twitter.jpg" alt="devtill2yeah | Twitter" width="33px"/></a>
+<a href="https://x.com/devtill2yeah"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/twitter.jpg" alt="devtill2yeah | Twitter" width="33px"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&layout=compact)](https://github.com/devtill2yeah) 
 
