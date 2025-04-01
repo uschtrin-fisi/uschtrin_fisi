@@ -26,8 +26,6 @@ uschtrin.fisi@pm.me
 
 <a href="https://www.javascript.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/js .png" alt="devtill2yeah | js" width="33px"/></a>
 
-<a href="https://html.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/html .png" alt="devtill2yeah | html" width="33px"/></a>
-
 <a href="https://sass-lang.com/guide"><img align="centre" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/sass-5.png" alt="devtill2yeah | css" width="33px"/></a>
 
 <a href="https://www.mysql.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/mysql.png" alt="devtill2yeah | mysql" width="33px"/></a>
