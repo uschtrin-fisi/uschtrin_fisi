@@ -21,10 +21,6 @@ For the communication during roleplay (and server) activity, a Discord server wi
 
 <a href="https://x.com/devtill2yeah"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/twitter.jpg" alt="devtill2yeah | Twitter" width="33px"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtill2yeah&layout=compact)](https://github.com/devtill2yeah) 
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=devtill2yeah)](https://github.com/devtill2yeah) 
-
 ## Languages and tools I use more or less frequent
 
 <a href="https://www.javascript.com/"><img align="centre" src="https://raw.githubusercontent.com/devtill2yeah/visual-configs/main/images/js .png" alt="devtill2yeah | js" width="33px"/></a>
